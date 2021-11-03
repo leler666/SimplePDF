@@ -5,6 +5,7 @@
 @File    ：pdfmain.py
 @Function: Main interface
 @Author  ：Frank Y
+@Version : 0.11
 @Date    ：2021/11/3 16:35
 '''
 
